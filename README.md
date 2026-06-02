@@ -167,3 +167,10 @@ Building this without any networking libraries forced a genuine understanding of
 ## Skills Demonstrated
 
 Python · Binary Protocol Parsing · TCP/IP Internals · State Machine Design · Network Diagnostics · Systems Programming · Data Analysis
+
+Project Info
+Author	Rahil Wijeyesekera
+🎓 Project Context: This project was developed as part of the CSC 361: Network Systems course at the University of Victoria.
+
+⚠️ Academic Integrity Notice
+This repository is maintained for portfolio and educational purposes only. If you are currently enrolled in CSc 361 at the University of Victoria or a similar Networks course, please note that using this code in your own assignments may constitute a violation of Academic Integrity policies.
